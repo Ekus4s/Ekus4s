@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=flat)[]("https://www.cplusplus.com/")
 # Konichiwa
-Meu _nickname_ é Ekusas, tenho 17 anos e sofro de Síndrome de Asperger. Eu desisti de estudar computação por motivos internos, espero que entendam. See ya!
+Eu desisti de estudar computação por motivos internos, espero que entendam. See ya!
 
 **"si hortum in bibliotheca habes deerit nihil"**
 
