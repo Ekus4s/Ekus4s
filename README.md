@@ -1,13 +1,8 @@
 ![](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=flat)[]("https://www.cplusplus.com/")
 # Konichiwa
-Meu _nickname_ é Ekusas, tenho 17 anos e sofro de Síndrome de Asperger. Me interesso por programação e computação em geral, mas não entendo muito, espero que meu perfil ajude alguém da comunidade :)
+Meu _nickname_ é Ekusas, tenho 17 anos e sofro de Síndrome de Asperger. Eu desisti de estudar computação por motivos internos, espero que entendam. See ya!
 
 **"si hortum in bibliotheca habes deerit nihil"**
-
-* Dono da _Team_ Hayabuza
-* Estudando: Js, Py, C++ (_backend_ em geral)
-* Estudarei futuramente: Assembly e _pentest_
-* Discord: wEkusas54 友#0154
 
 <img src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" align=center>
 
