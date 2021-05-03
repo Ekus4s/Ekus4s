@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=flat)[]("https://www.cplusplus.com/")
 # Konichiwa
-Eu desisti de estudar computação por motivos internos, espero que entendam. See ya!
+Perfil offline
 
 **"si hortum in bibliotheca habes deerit nihil"**
 
