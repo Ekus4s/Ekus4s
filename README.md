@@ -4,6 +4,6 @@ Offline profile
 
 **"si hortum in bibliotheca habes deerit nihil"**
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/ekus4s.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/753173"></script>
 <img src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" align=center>
 
